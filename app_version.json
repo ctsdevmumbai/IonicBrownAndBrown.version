@@ -1,5 +1,5 @@
 {
-"minVersion" : 1.0,
-"maxVersion" : 1.0,
+"minVersion" : 1.1,
+"maxVersion" : 1.1,
 "updateMessage" : "Test message for force update."
 }
